@@ -20,12 +20,12 @@ line-height: 30px;
 .banner{
     display: flex;
     justify-content: space-between;
-    padding-left: 240px;
+    padding-left: 100px;
 }
 .banner img{
-    width: 635px;
-height: 800px;
-padding-right: 240px;
+    width: 500px;
+height: 600px;
+padding-right: 200px;
 }
 .banner-containt{
     padding-left: 10px;
@@ -61,10 +61,10 @@ main .para{
     
 }
 .pic img{
-    margin-left: 250px ;
+    margin-left: 100px ;
     padding: 100px 75px  0px 75px;
-    width: 310px;
-height: 428px;
+    width: 210px;
+height: 328px;
 }
 .pic-1  {
     border-radius: 300px 300px 0px 0px;
@@ -90,7 +90,7 @@ background: rgba(71, 125, 17, 0.15);
 .pic-name{
     display: flex;
     justify-content: center;
-    gap: 520px;
+    gap: 320px;
     text-decoration: underline;
 }
 
@@ -98,21 +98,21 @@ background: rgba(71, 125, 17, 0.15);
 .small-pic{
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
-    width: 1900px;
-height: 320px;
-margin: 150px 240px 0px 240px;
+    width: 86%;
+/* height: 320px; 
+margin: 40px 40px 0px 40px;  */
+margin-left: 100px;
 }
 .small-pic img{
-    padding: 100px 200px 0px 300px;
-
-    width: 88px;
-height: 88px;
+    padding-left:  280px;
+    width: 77px;
+height: 77px;
 }
 .small-cont{
     display: flex;
     justify-content: space-between;
-    padding-left: 280px;
-    padding-right: 280px;
+    padding-left: 200px;
+    padding-right: 200px;
 
 }
 
@@ -120,8 +120,8 @@ height: 88px;
 .middle-header{
     margin-top: 80px;
     padding-top: 100px;
-    margin-left: 150px;
-    
+    margin-left: 100px;
+    width: 1300px;
     border-radius: 8px;
 background:rgba(229, 84, 115, 0.05);
 }
@@ -135,34 +135,27 @@ background:rgba(229, 84, 115, 0.05);
 
 /* square iimage */
 .square-pic img{
-    margin-left: 80px ;
-    /* padding: 100px 75px  0px 75px;
-    width: 310px;
-height: 428px; */
+    margin-left: 100px ;
+    /* padding: 100px 75px  0px 75px; */
+    width: 247px;
+    height: 320px;
 }
 .pic-4 {
     background: rgba(167, 33, 98, 0.15);
 
-        width: 464px;
-    height: 538px;
 }
 .pic-5  {
 background: rgba(5, 151, 160, 0.15);
 
-        width: 464px;
-    height: 538px;
 }
 .pic-6 {
 background: rgba(71, 125, 17, 0.15);
 
-        width: 464px;
-    height: 538px;
 }
 .pic-7 {
 background: rgba(71, 125, 17, 0.15);
 
-        width: 464px;
-    height: 538px;
+
 }
 
 
@@ -173,10 +166,9 @@ input {
   }
   .input-i{
     background-image: url("Flower Asset/Rectangle 9.png");
-    width: 1440px;
+    margin-left: 100px;
+    width: 1300px;
 height: 449px;
-flex-shrink: 0;
-margin-left: 350px;
   }
   .Rectangle-content{
     padding: 100px
@@ -185,9 +177,9 @@ margin-left: 350px;
 
 
   footer{
-    margin-top: 20px;
+    margin-top: 50px;
     background-color: #272727;
-    width: 100%;
+    /* width: 100%; */
     height: 449px;
   }
 
