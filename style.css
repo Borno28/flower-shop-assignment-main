@@ -1,0 +1,205 @@
+/* header banner */
+.header {
+    background: rgba(229, 84, 115, 0.10);
+
+}
+.heading{
+width: 708px;
+    color: #272727;
+font-size: 80px;
+font-weight: 800;
+
+}
+.para{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px; 
+
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 240px;
+}
+.banner img{
+    width: 635px;
+height: 800px;
+padding-right: 240px;
+}
+.banner-containt{
+    padding-left: 10px;
+    padding-bottom: 40px;
+
+}
+/* button */
+.p-btn{
+    border-radius: 8px;
+background: #E55473;
+padding: 20px 43px;
+gap: 10px;color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-weight: 700;
+}
+
+/* main */
+.f-heading{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+}
+main .para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    
+}
+.pic img{
+    margin-left: 250px ;
+    padding: 100px 75px  0px 75px;
+    width: 310px;
+height: 428px;
+}
+.pic-1  {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
+        width: 464px;
+    height: 538px;
+}
+.pic-2  {
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+
+        width: 464px;
+    height: 538px;
+}
+.pic-3 {
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+
+        width: 464px;
+    height: 538px;
+}
+.pic-name{
+    display: flex;
+    justify-content: center;
+    gap: 520px;
+    text-decoration: underline;
+}
+
+/* small pic */
+.small-pic{
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    width: 1900px;
+height: 320px;
+margin: 150px 240px 0px 240px;
+}
+.small-pic img{
+    padding: 100px 200px 0px 300px;
+
+    width: 88px;
+height: 88px;
+}
+.small-cont{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 280px;
+    padding-right: 280px;
+
+}
+
+/* middle-header */
+.middle-header{
+    margin-top: 80px;
+    padding-top: 100px;
+    margin-left: 150px;
+    
+    border-radius: 8px;
+background:rgba(229, 84, 115, 0.05);
+}
+.middle-header  button{
+    padding: 20px 43px ;
+    margin-left: 250px;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+
+/* square iimage */
+.square-pic img{
+    margin-left: 80px ;
+    /* padding: 100px 75px  0px 75px;
+    width: 310px;
+height: 428px; */
+}
+.pic-4 {
+    background: rgba(167, 33, 98, 0.15);
+
+        width: 464px;
+    height: 538px;
+}
+.pic-5  {
+background: rgba(5, 151, 160, 0.15);
+
+        width: 464px;
+    height: 538px;
+}
+.pic-6 {
+background: rgba(71, 125, 17, 0.15);
+
+        width: 464px;
+    height: 538px;
+}
+.pic-7 {
+background: rgba(71, 125, 17, 0.15);
+
+        width: 464px;
+    height: 538px;
+}
+
+
+/* input */
+input {
+    width: 35%;
+    margin-left: 32%;
+  }
+  .input-i{
+    background-image: url("Flower Asset/Rectangle 9.png");
+    width: 1440px;
+height: 449px;
+flex-shrink: 0;
+margin-left: 350px;
+  }
+  .Rectangle-content{
+    padding: 100px
+  }
+ 
+
+
+  footer{
+    margin-top: 20px;
+    background-color: #272727;
+    width: 100%;
+    height: 449px;
+  }
+
+  footer{
+    text-align: center;
+  }
+.flower{
+    color: deeppink;
+}
+.shop{
+    color: #FFF;
+}
+.foote{
+    padding: 100px;
+}
